@@ -8,8 +8,6 @@
 韩老师1
 this is
 吕成乾1
-<<<<<<< HEAD
+test
 董春茂
-=======
 houruinan
->>>>>>> f2f90460c24f0a462c0d871eefb6aae6e7cedf53
